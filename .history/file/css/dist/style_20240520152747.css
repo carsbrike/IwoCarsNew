@@ -254,7 +254,7 @@ body footer {
   width: 100%;
   position: fixed;
   z-index: 99;
-  bottom: 5px;
+  bottom: 10px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
