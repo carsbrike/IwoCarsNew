@@ -373,9 +373,10 @@ body .info {
   margin-top: -50px;
   height: 4300px;
   overflow: hidden;
-  background: linear-gradient(to right, rgba(7, 7, 7, 0.805), rgba(5, 5, 5, 0.797)), url(/file/img/pexels-pixabay-220182.jpg);
+  background: linear-gradient(to right, rgba(7, 7, 7, 0.805), rgba(5, 5, 5, 0.797)), url("./file/img/pexels-pixabay-220182.jpg");
   background-repeat: repeat;
   background-position: center;
+  filter: brightness(90%);
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
